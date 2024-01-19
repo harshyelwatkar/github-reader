@@ -25,6 +25,8 @@ To run this application locally, follow these steps:
 
 4) Enter a GitHub username and click the "Get Repositories" button.
 
+5) You can view the website using this link : https://github-reader.netlify.app/
+
 ## Technologies Used
 - HTML
 - CSS
