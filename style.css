@@ -1,0 +1,56 @@
+body {
+    padding: 20px;
+}
+
+#loader {
+    display: none;
+}
+
+.repository-box {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+#user-profile {
+    text-align: left;
+    margin-bottom: 20px;
+    display: none; 
+    
+}
+
+#user-profile img {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-right: 20px; 
+}
+
+#user-profile div {
+    flex-grow: 1; 
+}
+
+#user-profile h2 {
+    margin-left: 150px;
+    margin-bottom: 10px;
+    padding-bottom: 80px; 
+}
+
+#bio {
+    margin-bottom: 10px;
+    margin-left: 150px;
+    padding-bottom: 50px;
+}
+
+#search-container {
+    margin-bottom: 20px;
+}
+
+.content-beside{
+    margin-top: -90px;
+    
+}
+
