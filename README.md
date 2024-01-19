@@ -26,11 +26,11 @@ To run this application locally, follow these steps:
 4) Enter a GitHub username and click the "Get Repositories" button.
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
-Bootstrap (for styling)
-jQuery (for DOM manipulation)
+- HTML
+- CSS
+- JavaScript
+- Bootstrap (for styling)
+- jQuery (for DOM manipulation)
 
 ## API Reference
 GitHub REST API: GitHub API Documentation
